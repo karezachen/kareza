@@ -1,0 +1,10 @@
+{
+    "name": "Project Two",
+    "priority": "Medium",
+    "status": "Completed",
+    "category": "Work",
+    "tags": ["JavaScript", "CLI"],
+    "description": "A web development project using React and Node.js.",
+    "deadline": "2023-11-30"
+}
+
